@@ -1,0 +1,19 @@
+{
+  "name": "strcolor",
+  "version": "1.0.0",
+  "description": "Color code generate from strings",
+  "main": "strcolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ringohub/strcolor.git"
+  },
+  "author": "Yoshiki Aoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ringohub/strcolor/issues"
+  },
+  "homepage": "https://github.com/ringohub/strcolor#readme"
+}
