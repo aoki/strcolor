@@ -2,7 +2,7 @@
   "name": "strcolor",
   "version": "1.0.0",
   "description": "Color code generate from strings",
-  "main": "strcolor.js",
+  "main": "Strcolor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
