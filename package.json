@@ -4,7 +4,7 @@
   "description": "Color code generate from strings",
   "main": "Strcolor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "istanbul cover _mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ringohub/strcolor/issues"
   },
-  "homepage": "https://github.com/ringohub/strcolor#readme"
+  "homepage": "https://github.com/ringohub/strcolor#readme",
+  "devDependencies": {
+    "istanbul": "0.4.4",
+    "mocha": "2.5.3",
+    "power-assert": "1.4.1"
+  }
 }
