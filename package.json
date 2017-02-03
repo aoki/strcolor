@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/ringohub/strcolor#readme",
   "devDependencies": {
-    "codeclimate-test-reporter": "0.3.3",
-    "istanbul": "0.4.4",
+    "codeclimate-test-reporter": "0.4.0",
+    "istanbul": "0.4.5",
     "istanbul-coveralls": "1.0.3",
-    "mocha": "2.5.3",
-    "power-assert": "1.4.1"
+    "mocha": "3.2.0",
+    "power-assert": "1.4.2"
   }
 }
